@@ -8,8 +8,18 @@
 
 右键此电脑选择 属性
 
-![image-20220422153603836](/Users/syl/Library/Application Support/typora-user-images/image-20220422153603836.png)
+![图片1](/Users/syl/Desktop/图片1.png)
 
 选择高级系统设置
 
-![image-20220422153622009](/Users/syl/Library/Application Support/typora-user-images/image-20220422153622009.png)
+![图片2](/Users/syl/Desktop/图片2.png)
+
+选择 高级---启动和故障恢复
+
+![图片3](/Users/syl/Desktop/图片3.png)
+
+在启动和故障恢复中保证下列选项如图
+
+点击确定保存 当蓝屏发生时 C:\Windows\Minidump下就会生成蓝屏文件了
+
+![图片4](/Users/syl/Desktop/图片4.png)
