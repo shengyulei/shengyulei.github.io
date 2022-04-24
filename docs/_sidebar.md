@@ -3,8 +3,9 @@
 * [首页](README)
 * [操作指南](guide)
 
-* 前端技术
-    * [javascript](01/javascript/)
-    * [echarts](/01/echarts/)
-
+* windows相关问题
+    * [遇到系统蓝屏处理方案](/01/遇到系统蓝屏处理方案/)
+    * [系统激活](/01/系统激活/)
+    * [win10显示无法连接Internet网络](/01/win10显示无法连接Internet网络/)
+    * [win10关闭自带杀毒保护](/01/win10关闭自带杀毒保护/)
 * 服务器端技术
