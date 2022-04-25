@@ -4,21 +4,21 @@
 
 ##### 1:右键此电脑选择 属性
 
+<<<<<<< HEAD
 <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1krhyogx2j20ff0dvmxy.jpg" alt="图片1" style="zoom:77%;" />
 
 
+=======
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1krhyogx2j20ff0dvmxy.jpg" alt="图片1" style="max-width: 70%; zoom: 60%;" />
+>>>>>>> b222c8ac9aa2550729099572ac748ab4421102a2
 
 2:选择高级系统设置
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1krieu698j209i0hfmxp.jpg" alt="图片2" style="zoom:67%;" />
 
-
-
 3:选择 高级---启动和故障恢复
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1kriy3bdhj20lb0nltb6.jpg" alt="图片3" style="zoom:50%;" />
-
-
 
 4:在启动和故障恢复中保证下列选项如图，点击确定保存 当蓝屏发生时 C:\Windows\Minidump下就会生成蓝屏文件了
 
