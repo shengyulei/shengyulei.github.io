@@ -4,7 +4,7 @@
 
 ##### 1:右键此电脑选择 属性
 
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1krhyogx2j20ff0dvmxy.jpg" alt="图片1" style="max-width:70%;" />
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h1krhyogx2j20ff0dvmxy.jpg" alt="图片1" style="zoom:77%;" />
 
 
 
