@@ -17,29 +17,24 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '盛雨磊',
+      name: '技术文档',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
       coverpage: true,
       onlyCover: true,
-      search: {
-      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-      paths: [], // or 'auto'
-      placeholder: '请输入搜索关键字',
-      noData: '没有结果，别搜了!',
-      },
+      search: 'auto', // 默认值
       count:{
-      countable:true,
-      fontsize:'0.9em',
-      color:'rgb(90,90,90)',
-      language:'chinese'
-      },
-  }
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      }
+    }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </body>

@@ -2,7 +2,7 @@
 
 ![logo](logo.jpg)
 
-# 所见所闻记录 <small>盛雨磊</small>
+# 恢弘志士之气，不宜妄自菲薄 <small>盛雨磊</small>
 
 > QQ329978042
 
