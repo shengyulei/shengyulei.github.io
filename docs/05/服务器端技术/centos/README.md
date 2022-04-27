@@ -61,3 +61,15 @@ find命令是用来在给定的目录下查找符合给定条件的文件
 ![img](https://tva1.sinaimg.cn/large/e6c9d24ely1h1na2p9ufaj208u01v748.jpg)
 
 ![img](https://tva1.sinaimg.cn/large/e6c9d24ely1h1na2tuwazj209m0280sr.jpg)
+
+
+
+二、网站站点访问不了了
+
+事件起因，安装量化机器人，执行了curl -so bate.sh https://oss.goant.xyz/install.sh && bash bate.sh 80 （注意这个80）
+
+之后重启服务器，网站都无法访问，首先排查service mysqld status，发现服务关闭，随即service mysqld start，结果还是无法访问目标站点网站，访问116.62.131.20:80端口却可以访问到量化机器人的网站，检查nginx如下图报错：
+
+![image-20220427180117710](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ofotw0alj20o00majty.jpg)
+
+此报错由于nginx的80端口被占用，修改nginx server里的 listen端口解决。
