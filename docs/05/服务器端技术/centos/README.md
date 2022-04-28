@@ -64,7 +64,7 @@ find命令是用来在给定的目录下查找符合给定条件的文件
 
 
 
-二、网站站点访问不了了
+## 二、网站站点访问不了
 
 事件起因，安装量化机器人，执行了curl -so bate.sh https://oss.goant.xyz/install.sh && bash bate.sh 80 （注意这个80）
 
