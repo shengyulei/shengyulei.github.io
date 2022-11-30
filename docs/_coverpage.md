@@ -12,5 +12,5 @@
 
 [推文入口](https://ceshi.xinxiangcloud.com)
 [商城](https://boke.xinxiangcloud.com)
-[文字转语音](http://47.108.252.165/)
+[文字转语音]()
 [技术文档](README)
