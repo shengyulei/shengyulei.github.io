@@ -12,6 +12,6 @@
 
 [推文入口](https://ceshi.xinxiangcloud.com)
 [商城](https://boke.xinxiangcloud.com)
-[垃圾工具箱（谨慎使用）](https://remeins.com/index/app/text2voice)
+[垃圾工具箱（谨慎使用）](https://remeins.com/)
 [文字转语音](https://www.text-to-speech.cn/)
 [技术文档](README)
