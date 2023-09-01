@@ -10,6 +10,5 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[推文入口](https://ceshi.xinxiangcloud.com)
 [商城](https://boke.xinxiangcloud.com)
 [技术文档](README)
