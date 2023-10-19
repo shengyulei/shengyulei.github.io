@@ -6,7 +6,7 @@
 
 1：鼠标放到左下角windows徽标右键
 
-![](https://cdn.329978042.xyz/PicGo/WechatIMG78.jpeg)
+![Alt text](https://syl.313078434.xyz/syl/2023/10/picgo-clipboard-images/202310181753980.png)
 
 2：在弹出的选择项中选择 windows powershell 管理员模式 注意一定要选管理员模式
 
